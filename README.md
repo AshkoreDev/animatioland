@@ -1,2 +1,2 @@
 # animatioland
-Practice HTML and CSS.
+HTML and CSS practice with a simple game.
